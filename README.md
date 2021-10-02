@@ -1,2 +1,6 @@
-# arquitecturas-agiles-g3-exp2
-Experimento seguridad 
+# Experimento II: Seguridad 
+
+## Dependencias
+  * Docker
+  * python 3.9
+  * venv
